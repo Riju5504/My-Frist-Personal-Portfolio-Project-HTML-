@@ -1,0 +1,2 @@
+# My Frist Personal Portfolio Project (HTML)
+"This is my first HTML project. I am learning this for the first time, and I really enjoyed doing it. In this, I have included my details, my personal contacts, shared about myself, my skills, and also provided links to my personal accounts—like my Instagram, LinkedIn, GitHub, and YouTube channel. You can directly check them out from the links provided!"
